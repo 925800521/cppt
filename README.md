@@ -1,2 +1,2 @@
 # cppt
-Convert PPT to IMG
+高中时候做的一个工具，用来将学校的PPT课件转换成图片，在MP3/MP4中查看。
