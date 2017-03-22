@@ -1,0 +1,15 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CPPT\CPPT\bin\Debug\CPPT.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CPPT\CPPT\bin\Debug\CPPT.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CPPT\CPPT\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CPPT\CPPT\obj\Debug\CPPT.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CPPT\CPPT\obj\Debug\CPPT.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CPPT\CPPT\obj\Debug\CPPT.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CPPT\CPPT\obj\Debug\CPPT.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CPPT\CPPT\obj\Debug\CPPT.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CPPT\CPPT\obj\Debug\CPPT.Proced.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CPPT\CPPT\obj\Debug\CPPT.about.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CPPT\CPPT\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CPPT\CPPT\obj\Debug\Interop.PowerPoint.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CPPT\CPPT\obj\Debug\CPPT.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CPPT\CPPT\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CPPT\CPPT\bin\Debug\Interop.PowerPoint.dll
